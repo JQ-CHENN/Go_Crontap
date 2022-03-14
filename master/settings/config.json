@@ -1,0 +1,20 @@
+{
+    "API接口服务端口":"提供job的增删改查操作",
+    "port":9898,
+
+    "API接口读超时":"单位毫秒",
+    "read_timeout":5000,
+
+    "API接口写超时":"单位毫秒",
+    "write_timeout":5000,
+
+    "Etcd的集群列表":"",
+    "endpoints":["127.0.0.1:2379"],
+    "Etcd连接超时":"单位毫秒",
+    "dialTimeout":5000,
+
+    "MongoDB地址":"uri",
+    "MongoDBURI":"mongodb://127.0.0.1:27017",
+    "MongoDB连接超时间":"单位毫秒",
+    "MongoDB_TimeOut":5000
+}

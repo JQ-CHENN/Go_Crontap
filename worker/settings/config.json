@@ -1,0 +1,15 @@
+{
+    "Etcd的集群列表":"",
+    "endpoints":["127.0.0.1:2379"],
+    "Etcd连接超时":"单位毫秒",
+    "dialTimeout":5000,
+
+    "MongoDB地址":"uri",
+    "MongoDBURI":"mongodb://127.0.0.1:27017",
+    "MongoDB连接超时间":"单位毫秒",
+    "MongoDB_TimeOut":5000,
+    "日志批次容量":"",
+    "LogBatchSize":100,
+    "批次超时自动提交时间":"",
+    "LogCommitTimeOut":1000
+}
